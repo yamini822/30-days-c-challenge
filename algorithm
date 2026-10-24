@@ -1,0 +1,10 @@
+1.	Start
+2.	Read the value of N.
+3.	If N < 5 or N > 12, display “Invalid N. Enter again” and repeat Step 2.
+4.	Initialize i = 0.
+5.	Repeat while i < N:
+*Read reading[i].
+*If reading[i] < 0 or reading[i] > 1000, display “Invalid reading. Enter again” and repeat the input for the same position.
+*Otherwise, increment i = i + 1.
+6.	Display all the valid activity readings stored in the one-dimensional array.
+7.	Stop.
